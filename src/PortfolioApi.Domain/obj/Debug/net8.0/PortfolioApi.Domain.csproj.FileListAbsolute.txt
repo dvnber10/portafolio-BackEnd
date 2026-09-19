@@ -9,3 +9,4 @@
 /Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Domain/obj/Debug/net8.0/refint/PortfolioApi.Domain.dll
 /Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Domain/obj/Debug/net8.0/PortfolioApi.Domain.pdb
 /Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Domain/obj/Debug/net8.0/ref/PortfolioApi.Domain.dll
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Domain/obj/Debug/net8.0/PortfolioApi.Domain.sourcelink.json

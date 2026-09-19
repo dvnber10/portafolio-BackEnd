@@ -36,3 +36,4 @@
 /Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Infrastructure/obj/Debug/net8.0/PortfolioApi.Infrastructure.pdb
 /Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Infrastructure/obj/Debug/net8.0/PortfolioApi.Infrastructure.genruntimeconfig.cache
 /Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Infrastructure/obj/Debug/net8.0/ref/PortfolioApi.Infrastructure.dll
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Infrastructure/obj/Debug/net8.0/PortfolioApi.Infrastructure.sourcelink.json

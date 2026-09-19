@@ -13,3 +13,4 @@
 /Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/Debug/net8.0/refint/PortfolioApi.Application.dll
 /Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/Debug/net8.0/PortfolioApi.Application.pdb
 /Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/Debug/net8.0/ref/PortfolioApi.Application.dll
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/Debug/net8.0/PortfolioApi.Application.sourcelink.json
