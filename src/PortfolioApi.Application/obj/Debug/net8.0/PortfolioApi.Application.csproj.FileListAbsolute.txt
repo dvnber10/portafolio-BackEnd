@@ -1,0 +1,15 @@
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/Debug/net8.0/PortfolioApi.Application.csproj.AssemblyReference.cache
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/Debug/net8.0/PortfolioApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/Debug/net8.0/PortfolioApi.Application.AssemblyInfoInputs.cache
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/Debug/net8.0/PortfolioApi.Application.AssemblyInfo.cs
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/Debug/net8.0/PortfolioApi.Application.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/bin/Debug/net8.0/PortfolioApi.Application.deps.json
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/bin/Debug/net8.0/PortfolioApi.Application.dll
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/bin/Debug/net8.0/PortfolioApi.Application.pdb
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/bin/Debug/net8.0/PortfolioApi.Domain.dll
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/bin/Debug/net8.0/PortfolioApi.Domain.pdb
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/Debug/net8.0/Portfoli.691D19DF.Up2Date
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/Debug/net8.0/PortfolioApi.Application.dll
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/Debug/net8.0/refint/PortfolioApi.Application.dll
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/Debug/net8.0/PortfolioApi.Application.pdb
+/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/Debug/net8.0/ref/PortfolioApi.Application.dll

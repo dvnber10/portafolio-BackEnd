@@ -1,0 +1,418 @@
+{
+  "personal": {
+    "fullName": "Edgar Duván Bernal Acero",
+    "title": "Ingeniero en Sistemas y Computación",
+    "location": "Madrid, Cundinamarca, Colombia",
+    "phone": "+57 313-425-1767",
+    "email": "dvnber10@gmail.com",
+    "github": "github.com/dvnber10",
+    "linkedin": "edgar-duvan-bernal-acero-43339a258",
+    "portfolio": "https://portfolio-iota-seven-h96xw48djf.vercel.app/",
+    "photoUrl": "/images/profile.jpg"
+  },
+  "education": [
+    {
+      "period": "2021 – 2026 (En curso)",
+      "degree": "Ingeniería en Sistemas y Computación",
+      "institution": "Universidad de Cundinamarca",
+      "place": "Facatativá, Colombia",
+      "detail": "Noveno semestre · Graduación esperada: Septiembre 2026. Promedio acumulado: 4.0. Cursos: Desarrollo de Software, Inteligencia Artificial, Sistemas Operativos, Seguridad Informática. Proyecto de grado: especialización en analítica y ciencia de datos."
+    },
+    {
+      "period": "2027 (En curso)",
+      "degree": "Especialización en Analítica y Ciencia de Datos",
+      "institution": "Universidad de Cundinamarca",
+      "place": "Facatativá, Colombia",
+      "detail": "Opción de grado del pregrado · Graduación esperada: Marzo 2027."
+    }
+  ],
+  "experience": [
+    {
+      "period": "Junio 2026",
+      "role": "Desarrollador de Inteligencia Artificial Junior",
+      "organization": "Grupo Consiti S.A. de C.V.",
+      "location": "San Salvador, El Salvador (remoto)",
+      "project": "StradiaLabs",
+      "link": "https://www.consiti.com/",
+      "responsibilities": [
+        "Desarrollé e implementé componentes de inteligencia artificial y machine learning para el proyecto StradiaLabs, dentro del área de Tecnología y Desarrollo.",
+        "Implementé modelos y pipelines de datos orientados a proyectos de IA, entregando componentes de desarrollo dentro de los plazos acordados.",
+        "Aporté soluciones técnicas orientadas a la escalabilidad del backlog del proyecto, trabajando de forma remota con autonomía y foco en resultados.",
+        "Colaboré en un entorno de desarrollo distribuido bajo metodologías ágiles, con comunicación técnica efectiva en un contexto de trabajo remoto internacional."
+      ],
+      "type": "professional"
+    },
+    {
+      "period": "2023 – 2024",
+      "role": "Desarrollador Back-End, Proyectos .NET Core",
+      "organization": "Proyectos Académicos y Personales",
+      "location": "GitHub: Api-.net-_y_Mongo, MAVE",
+      "project": "MAVE · Api-.net-_y_Mongo",
+      "link": "https://github.com/dvnber10",
+      "responsibilities": [
+        "Diseñé e implementé APIs RESTful en .NET Core con MongoDB, optimizando autenticación y consultas para sistemas de gestión empresarial, logrando un rendimiento 20% superior en tiempos de respuesta.",
+        "Desarrollé el backend de \"MAVE\", un sistema de gestión de recursos humanos, integrando endpoints seguros y configuraciones en entornos Linux/Windows.",
+        "Contribuciones públicas en GitHub: 3 estrellas en MAVE y 6 repositorios activos."
+      ],
+      "type": "project"
+    },
+    {
+      "period": "2025",
+      "role": "Investigador, Modelo de Voz a Texto (ASR)",
+      "organization": "Proyecto de Investigación Personal",
+      "location": "Hugging Face · Common Voice · Whisper",
+      "project": "ASR Español",
+      "link": "",
+      "responsibilities": [
+        "Desarrollé un modelo de reconocimiento de voz en español usando Common Voice (Hugging Face) y Whisper, con preprocesamiento en Librosa para normalización de audio.",
+        "Implementé enfoques híbridos de PLN para textos médicos, logrando un 90% de precisión en reconocimiento de entidades y detección de negación.",
+        "Adapté datasets para acentos colombianos, explorando VoxPopuli para robustez en entornos ruidosos."
+      ],
+      "type": "project"
+    },
+    {
+      "period": "2025",
+      "role": "Desarrollador, Sistema de Dibujo Gestual con Kinect",
+      "organization": "Proyecto Personal",
+      "location": "Python · PyQt5 · Kinect · Tesseract OCR",
+      "project": "Lienzo Interactivo Kinect",
+      "link": "",
+      "responsibilities": [
+        "Implementé un lienzo interactivo en Python con PyQt5 y Kinect, utilizando Tesseract OCR para extraer texto manuscrito con 85% de precisión tras optimizar el preprocesamiento (desenfoque, dilatación).",
+        "Resolví problemas de estabilidad en datos de profundidad, reduciendo interrupciones USB en un 40% mediante ajustes en FPS y manejo de errores.",
+        "Exploré integración serial con ESP32 en Arch Linux para comunicación hardware-software."
+      ],
+      "type": "project"
+    },
+    {
+      "period": "2024",
+      "role": "Automatización en Linux, Walls-Arch",
+      "organization": "Proyecto Personal",
+      "location": "Arch Linux · feh · Cloudinary",
+      "project": "Walls-Arch",
+      "link": "https://github.com/dvnber10/Walls-Arch",
+      "responsibilities": [
+        "Creé un script en Python con feh para automatizar rotación de fondos de pantalla en Arch Linux, optimizando flujos de trabajo para desarrolladores.",
+        "Demostré habilidades en scripting shell y configuración de sistemas Linux (Arch, Debian)."
+      ],
+      "type": "project"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Español",
+      "level": "Nativo"
+    },
+    {
+      "name": "Inglés",
+      "level": "B2 · Competente en lectura técnica, en proceso de mejora"
+    }
+  ],
+  "profiles": [
+    {
+      "slug": "general",
+      "title": "Ingeniero en Sistemas y Computación",
+      "shortTitle": "Ingeniero en Sistemas",
+      "icon": "💻",
+      "order": 0,
+      "default": true,
+      "summary": "Ingeniero en Sistemas y Computación con experiencia profesional como desarrollador de inteligencia artificial y experiencia avanzada en desarrollo Back-End con .NET Core y C# para aplicaciones web escalables. Competente en machine learning y procesamiento de lenguaje natural (PLN), con proyectos en reconocimiento de voz y visión por computadora. Hábil en integración de hardware (Kinect, ESP32), automatización en Linux, desarrollo de APIs con MongoDB y construcción de pipelines de datos. Reconocido por habilidades en resolución de problemas, aprendizaje autónomo y colaboración en equipos multidisciplinarios y remotos.",
+      "highlights": [
+        "Experiencia profesional remota internacional en IA (Grupo Consiti)",
+        "Back-End .NET Core: APIs RESTful con 20% de mejora en rendimiento",
+        "Modelos de IA: ASR Whisper (90%) y OCR con Kinect (85%)",
+        "Promedio universitario acumulado de 4.0 y 6 repositorios públicos"
+      ],
+      "skills": [
+        "C# (.NET Core)",
+        "Python (PyTorch, Transformers, Librosa, FastAPI)",
+        "Java",
+        "C",
+        "JavaScript (React)",
+        "APIs RESTful",
+        "MongoDB",
+        "MySQL",
+        "MS SQL Server",
+        "Machine Learning",
+        "PLN",
+        "Visión por Computadora",
+        "Tesseract OCR",
+        "Whisper",
+        "Hugging Face",
+        "Docker",
+        "Git/GitHub",
+        "Linux (Arch, Debian, Kali)",
+        "ESP32",
+        "Kinect",
+        "Seguridad Informática"
+      ],
+      "interests": "Desarrollo de Software Back-End, Inteligencia Artificial y PLN, Integración Hardware-Software, Seguridad Informática, Optimización Logística y Proyectos Sostenibles."
+    },
+    {
+      "slug": "backend-net",
+      "title": "Desarrollador Back-End .NET",
+      "shortTitle": "Back-End .NET",
+      "icon": "⚙️",
+      "order": 1,
+      "default": false,
+      "summary": "Ingeniero en Sistemas y Computación con experiencia profesional como desarrollador de software y experiencia avanzada en desarrollo Back-End con .NET Core y C# para aplicaciones web escalables. Diseño e implemento APIs RESTful con MongoDB y MS SQL Server, con foco en autenticación segura, optimización de consultas y despliegue en entornos Linux/Windows. Familiarizado con Docker, Git y metodologías ágiles en equipos remotos e internacionales. Reconocido por habilidades en resolución de problemas, aprendizaje autónomo y contribuciones en repositorios públicos.",
+      "highlights": [
+        "APIs RESTful en .NET Core con 20% de mejora en tiempos de respuesta",
+        "Integración con MongoDB, MS SQL Server y MySQL",
+        "Backend de MAVE (gestión de recursos humanos) con endpoints seguros",
+        "Docker, Git y despliegue en Linux/Windows"
+      ],
+      "skills": [
+        "C#",
+        ".NET Core",
+        "ASP.NET",
+        "RESTful APIs",
+        "Autenticación",
+        "MongoDB",
+        "MS SQL Server",
+        "MySQL",
+        "Entity Framework",
+        "Docker",
+        "Git/GitHub",
+        "Linux (Arch, Debian)",
+        "Python (FastAPI)",
+        "React.js",
+        "Seguridad Informática"
+      ],
+      "interests": "Desarrollo Back-End y arquitectura de APIs, sistemas escalables, bases de datos NoSQL/SQL, optimización de rendimiento y proyectos open source."
+    },
+    {
+      "slug": "ia",
+      "title": "Desarrollador de Inteligencia Artificial",
+      "shortTitle": "Desarrollador de IA",
+      "icon": "🤖",
+      "order": 2,
+      "default": false,
+      "summary": "Ingeniero en Sistemas y Computación con experiencia profesional como Desarrollador de IA Junior en Grupo Consiti (proyecto StradiaLabs). Competente en machine learning, procesamiento de lenguaje natural (PLN) y visión por computadora, con proyectos en reconocimiento de voz en español (Whisper, Common Voice), OCR manuscrito (Tesseract) y pipelines de datos. Hábil en Python (PyTorch, Transformers, Librosa, FastAPI), Hugging Face, integración de hardware (Kinect, ESP32) y trabajo remoto en equipos ágiles e internacionales. Reconocido por autonomía, foco en resultados y mejora continua de modelos.",
+      "highlights": [
+        "Experiencia en IA y ML en Grupo Consiti (StradiaLabs)",
+        "ASR en español con Whisper y Common Voice (90% en textos médicos)",
+        "Visión por computadora: OCR con Kinect y Tesseract (85%)",
+        "Pipelines de datos y fine-tuning con Hugging Face"
+      ],
+      "skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "Fine-tuning",
+        "PLN (NLP)",
+        "ASR",
+        "Whisper",
+        "Hugging Face",
+        "Tesseract OCR",
+        "Python (PyTorch, Transformers, Librosa)",
+        "FastAPI",
+        "Visión por Computadora",
+        "Kinect",
+        "ESP32",
+        "MongoDB",
+        "Docker",
+        "Git/GitHub",
+        "Linux (Arch, Debian, Kali)",
+        "Metodologías ágiles"
+      ],
+      "interests": "Inteligencia Artificial y PLN aplicados a salud y texto, reconocimiento de voz multidioma, visión por computadora, integración hardware-software y proyectos sostenibles."
+    },
+    {
+      "slug": "analista-datos",
+      "title": "Analista de Datos",
+      "shortTitle": "Analista de Datos",
+      "icon": "📊",
+      "order": 3,
+      "default": false,
+      "summary": "Ingeniero en Sistemas y Computación con experiencia profesional en pipelines de datos y proyectos de análisis de datos en entornos ágiles. Competente en SQL (MongoDB, MySQL, MS SQL Server), Python para procesamiento de audio y texto, preprocesamiento de datasets, métricas de evaluación de modelos y análisis exploratorio. En proceso de especialización en analítica y ciencia de datos en la Universidad de Cundinamarca. Reconocido por atención al detalle, autonomía en análisis de datos y trabajo colaborativo en equipos remotos.",
+      "highlights": [
+        "Preprocesamiento de datasets de audio y texto (Common Voice, VoxPopuli)",
+        "Métricas de evaluación de modelos y análisis exploratorio (EDA)",
+        "SQL y NoSQL: MongoDB, MySQL, MS SQL Server",
+        "Specialización en analítica y ciencia de datos"
+      ],
+      "skills": [
+        "Python (Librosa, Transformers, FastAPI)",
+        "SQL",
+        "MongoDB",
+        "MySQL",
+        "MS SQL Server",
+        "Preprocesamiento y limpieza de datos",
+        "EDA",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Extracción de características",
+        "Métricas de modelos",
+        "Hugging Face",
+        "Excel",
+        "Git/GitHub",
+        "Docker",
+        "Linux"
+      ],
+      "interests": "Análisis exploratorio de datos, preprocesamiento y limpieza de datos, bases de datos NoSQL/SQL, pipelines de datos, investigación aplicada y visualización de resultados."
+    },
+    {
+      "slug": "cientifico-datos",
+      "title": "Científico de Datos (Junior)",
+      "shortTitle": "Científico de Datos",
+      "icon": "🔬",
+      "order": 4,
+      "default": false,
+      "summary": "Ingeniero en Sistemas y Computación con experiencia profesional en machine learning, pipelines de datos y modelos de IA en Grupo Consiti (proyecto StradiaLabs). Experiencia práctica en NLP aplicado a textos médicos, reconocimiento de voz en español (Whisper, Common Voice), visión por computadora y evaluación rigurosa de modelos (precisión, robustez y generalización). Sólida base en Python, Hugging Face, Librosa y bases de datos SQL/NoSQL. En vía de especialización en analítica y ciencia de datos con promedio acumulado de 4.0. Reconocido por pensamiento analítico, autonomía en investigación y foco en resultados medibles.",
+      "highlights": [
+        "Machine learning en producción (Grupo Consiti · StradiaLabs)",
+        "NLP médico: 90% de precisión en entidades y detección de negación",
+        "Evaluación de modelos: precisión, robustez y generalización",
+        "Especialización en analítica y ciencia de datos · Promedio 4.0"
+      ],
+      "skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "Transfer Learning",
+        "Fine-tuning",
+        "NLP",
+        "ASR (Whisper)",
+        "Evaluación de modelos",
+        "Python (PyTorch, scikit-learn, Transformers, Librosa)",
+        "Ingeniería de características",
+        "Pipelines de datos",
+        "Hugging Face",
+        "MongoDB",
+        "MySQL",
+        "MS SQL Server",
+        "Git/GitHub",
+        "Docker",
+        "Experimentación"
+      ],
+      "interests": "NLP aplicado a salud e investigación, reconocimiento de voz multidioma, visión por computadora, evaluación de modelos y datos, pipelines escalables y proyectos sostenibles."
+    }
+  ],
+  "projects": [
+    {
+      "id": "50000000-0000-0000-0000-000000000001",
+      "title": "MAVE · API .NET Core + MSSQL",
+      "category": "Backend",
+      "description": "API RESTful en .NET Core integrada con MSSQL Server, autenticación y consultas optimizadas. Logré un 20% de mejora en tiempos de respuesta.",
+      "link": "https://github.com/dvnber10/MAVE",
+      "repoLink": "https://github.com/dvnber10/MAVE",
+      "imageUrl": "/images/mave.png",
+      "order": 0,
+      "profiles": [
+        "general",
+        "backend-net"
+      ]
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000002",
+      "title": "MAVE · Frontend",
+      "category": "Frontend",
+      "description": "Interfaz para el sistema de gestión de recursos humanos MAVE, construida con React para registrar y monitorear el estado de ánimo diario de los usuarios.",
+      "link": "https://github.com/dhincapie2002/FrontMave",
+      "repoLink": "https://github.com/dhincapie2002/FrontMave",
+      "imageUrl": "/images/mave.png",
+      "order": 1,
+      "profiles": [
+        "general"
+      ]
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000003",
+      "title": "Recursos Humanos (MVC .NET)",
+      "category": "Backend",
+      "description": "Sistema de gestión de recursos humanos en MVC .NET (versión alpha) con funciones básicas de gestión de empleados.",
+      "link": "https://github.com/dvnber10/Recursos_Humanos",
+      "repoLink": "https://github.com/dvnber10/Recursos_Humanos",
+      "imageUrl": "",
+      "order": 2,
+      "profiles": [
+        "general",
+        "backend-net"
+      ]
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000004",
+      "title": "Modelo de Voz a Texto (ASR)",
+      "category": "IA · Lenguaje",
+      "description": "Reconocimiento de voz en español con Whisper y Common Voice. Logré un 90% de precisión en reconocimiento de entidades y detección de negación en textos médicos.",
+      "link": "https://github.com/dvnber10/AppDeepLearning",
+      "repoLink": "https://github.com/dvnber10/AppDeepLearning",
+      "imageUrl": "",
+      "order": 3,
+      "profiles": [
+        "general",
+        "ia",
+        "cientifico-datos"
+      ]
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000005",
+      "title": "Lienzo Interactivo con Kinect",
+      "category": "IA · Visión",
+      "description": "Sistema de dibujo gestual con Python, PyQt5 y Kinect, usando Tesseract OCR. Precisión de extracción de texto manuscrito del 85% y estabilidad de datos de profundidad mejorada en 40%.",
+      "link": "https://github.com/dvnber10/AppDeepLearning",
+      "repoLink": "https://github.com/dvnber10/AppDeepLearning",
+      "imageUrl": "",
+      "order": 4,
+      "profiles": [
+        "general",
+        "ia"
+      ]
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000006",
+      "title": "ML PetMonitor",
+      "category": "IA · Machine Learning",
+      "description": "API de predicción de enfermedades en mascotas mediante machine learning y procesamiento de datos del comportamiento de las mascotas.",
+      "link": "https://github.com/dvnber10/ML-PetMonitor",
+      "repoLink": "https://github.com/dvnber10/ML-PetMonitor",
+      "imageUrl": "",
+      "order": 5,
+      "profiles": [
+        "general",
+        "ia",
+        "cientifico-datos"
+      ]
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000007",
+      "title": "Walls-Arch",
+      "category": "DevOps",
+      "description": "Script en Python con feh y Cloudinary para automatizar la rotación de fondos de pantalla en Arch Linux, optimizando flujos de trabajo.",
+      "link": "https://github.com/dvnber10/Walls-Arch",
+      "repoLink": "https://github.com/dvnber10/Walls-Arch",
+      "imageUrl": "/images/walls-arch.png",
+      "order": 6,
+      "profiles": [
+        "general"
+      ]
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000008",
+      "title": "Plantas",
+      "category": "Full Stack",
+      "description": "API con MongoDB para el manejo de enfermedades y plagas de las plantas, con frontend desplegado y soluciones a las plagas más comunes.",
+      "link": "https://front-plantas.vercel.app/",
+      "repoLink": "https://github.com/dvnber10/Plantas",
+      "imageUrl": "/images/plantas.png",
+      "order": 7,
+      "profiles": [
+        "general",
+        "backend-net"
+      ]
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000009",
+      "title": "Spotipy",
+      "category": "Backend",
+      "description": "Script para el manejo de metadatos de Spotify y su almacenamiento en MongoDB, permitiendo consultar artistas y reproducciones registradas.",
+      "link": "https://github.com/dvnber10/Spotipy",
+      "repoLink": "https://github.com/dvnber10/Spotipy",
+      "imageUrl": "",
+      "order": 8,
+      "profiles": [
+        "general"
+      ]
+    }
+  ]
+}

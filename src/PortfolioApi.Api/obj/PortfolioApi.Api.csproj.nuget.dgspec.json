@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Api/PortfolioApi.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Api/PortfolioApi.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Api/PortfolioApi.Api.csproj",
+        "projectName": "PortfolioApi.Api",
+        "projectPath": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Api/PortfolioApi.Api.csproj",
+        "packagesPath": "/Users/user/.nuget/packages/",
+        "outputPath": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/user/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/PortfolioApi.Application.csproj": {
+                "projectPath": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/PortfolioApi.Application.csproj"
+              },
+              "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Infrastructure/PortfolioApi.Infrastructure.csproj": {
+                "projectPath": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Infrastructure/PortfolioApi.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.423/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/PortfolioApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/PortfolioApi.Application.csproj",
+        "projectName": "PortfolioApi.Application",
+        "projectPath": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/PortfolioApi.Application.csproj",
+        "packagesPath": "/Users/user/.nuget/packages/",
+        "outputPath": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/user/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Domain/PortfolioApi.Domain.csproj": {
+                "projectPath": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Domain/PortfolioApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.423/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Domain/PortfolioApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Domain/PortfolioApi.Domain.csproj",
+        "projectName": "PortfolioApi.Domain",
+        "projectPath": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Domain/PortfolioApi.Domain.csproj",
+        "packagesPath": "/Users/user/.nuget/packages/",
+        "outputPath": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/user/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.423/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Infrastructure/PortfolioApi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Infrastructure/PortfolioApi.Infrastructure.csproj",
+        "projectName": "PortfolioApi.Infrastructure",
+        "projectPath": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Infrastructure/PortfolioApi.Infrastructure.csproj",
+        "packagesPath": "/Users/user/.nuget/packages/",
+        "outputPath": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/user/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/PortfolioApi.Application.csproj": {
+                "projectPath": "/Users/user/Documents/Desarrollo/C#/PortfolioApi/src/PortfolioApi.Application/PortfolioApi.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2024.10.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.423/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
