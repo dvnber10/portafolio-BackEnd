@@ -17,12 +17,31 @@ var origins = (builder.Configuration["Cors:Origins"] ?? "http://localhost:3000,h
 
 builder.Services.AddCors(options => options.AddPolicy("PortfolioCors", policy =>
 {
-    if (origins.Length > 0)
-        policy.WithOrigins(origins);
-    else
+    var originList = origins.ToList();
+
+    if (originList.Count == 0 || originList.Contains("*"))
+    {
         policy.AllowAnyOrigin();
+    }
+    else
+    {
+        policy.SetIsOriginAllowed(origin => IsOriginAllowed(origin, originList));
+        policy.AllowCredentials();
+    }
     policy.AllowAnyHeader().AllowAnyMethod();
 }));
+
+static bool IsOriginAllowed(string origin, List<string> allowed)
+{
+    var host = Uri.TryCreate(origin, UriKind.Absolute, out var uri) ? uri.Host : origin;
+
+    if (allowed.Any(o => string.Equals(o.Trim(), origin, StringComparison.OrdinalIgnoreCase)
+                         || string.Equals(o.Trim(), "*", StringComparison.Ordinal)))
+        return true;
+
+    // Vercel usa subdominios efímeros (*.vercel.app) que cambian entre deploys/pull-requests.
+    return host.EndsWith(".vercel.app", StringComparison.OrdinalIgnoreCase);
+}
 
 var app = builder.Build();
 
